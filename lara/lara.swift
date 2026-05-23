@@ -7,6 +7,7 @@
 
 import SwiftUI
 import UniformTypeIdentifiers
+import AppIntents
 
 enum taboptions {
     case applying, tweaks, files, logs
@@ -106,6 +107,13 @@ struct lara: App {
                 } else {
                     Alertinator.shared.alert(title: "This device is not supported!", body: "We apologize, but this device is currently not supported by Lara. Possible reasons: \n- You are on an unsupported iOS version (Supported: iOS 16.0 - iOS 18.7.1, iOS 26.0 - iOS 26.0.1) \n- Your device has MIE (A19+ or M5+) \n- A debugger is attached.", actionLabel: "Exit App", action: { exitinator() })
                 }
+                
+                // Register Shortcuts so "Refresh All Apps" shows up in the Shortcuts app
+                #if !DISABLE_REMOTECALL
+                if #available(iOS 16.0, *) {
+                    LaraShortcuts.updateAppShortcutParameters()
+                }
+                #endif
             }
             .onChange(of: scenephase, perform: handleScenePhase)
             .onChange(of: mgr.sbxready) { ready in

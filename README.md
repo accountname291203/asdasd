@@ -34,6 +34,9 @@
   <a href="#credits">credits</a>
 </p>
 
+>[!NOTE]
+>Lara is still in a super rough state and is undergoing a rewrite. If you are experiencing any issues, it is best to simply wait instead of opening issues or asking for support in the Discord. If you would like to contribute, it is best to wait after the rewrite. We will not be accepting PRs during this time or resolving/responding to any issues. Thank you for your understanding!
+
 ## Support
 | iOS Version | Support Status |
 | - | - |
@@ -50,22 +53,12 @@ Important Notes:
 - YMMV on M-series CPUs. If you are on an M-series device, try going to lara settings, selecting `Modify Offsets`, and setting `t1sz_boot` to `0x11`.
 - Issues involving lara not working on either unsupported or *technically* supported versions will be closed immediately.
 
-## Releases
 <p align="center">
-  <h3>Latest Stable</h3>
   <a href="https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/rooootdev/lara/refs/heads/main/source.json" target="_blank">
     <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
   </a>
-  <a href="https://github.com/rooootdev/lara/releases/download/v0.1/lara_v0.1.ipa" target="_blank">
-    <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/Download_White.png?raw=true" alt="Download .ipa" width="200">
-  </a>
-
-  <h3>Latest Nightly</h3>
-  <a href="https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/rooootdev/lara/refs/heads/main/source_nightly.json" target="_blank">
-    <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/AltSource_Blue.png?raw=true" alt="Add AltSource" width="200">
-  </a>
-  <a href="https://github.com/rooootdev/lara/releases/download/nightly/lara.ipa" target="_blank">
-    <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/Download_White.png?raw=true" alt="Download .ipa" width="200">
+  <a href="https://github.com/rooootdev/lara/releases/download/0.1/lara_v0.1.ipa" target="_blank">
+    <img src="https://github.com/CelloSerenity/altdirect/blob/main/assets/png/Download_Blue.png?raw=true" alt="Download .ipa" width="200">
   </a>
 </p>
 

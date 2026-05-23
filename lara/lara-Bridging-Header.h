@@ -17,8 +17,6 @@
 #import "rc.h"
 #import "RemoteCall.h"
 
-#import <zlib.h>
-
 long findcachedataoff(const char *mgkey);
 void LaraClearIconCache(void);
 

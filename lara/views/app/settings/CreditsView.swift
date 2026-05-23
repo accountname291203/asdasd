@@ -32,7 +32,7 @@ struct CreditsView: View {
                 LinkCreditCell(name: "Jurre", description: "EditorView, PocketPoster Helper, various improvements", url: "https://github.com/jurre111") {
                     LinkCreditIcon(url: "https://github.com/jurre111.png")
                 }
-                LinkCreditCell(name: "neon", description: "Respring Script and zipmgr", url: "https://github.com/neonmodder123") {
+                LinkCreditCell(name: "neon", description: "Respring Script", url: "https://github.com/neonmodder123") {
                     LinkCreditIcon(url: "https://github.com/neonmodder123.png")
                 }
                 LinkCreditCell(name: "Skadz", description: "Respring Method", url: "https://github.com/skadz108") {
@@ -40,9 +40,6 @@ struct CreditsView: View {
                 }
                 LinkCreditCell(name: "hxhlb", description: "Various bug fixes", url: "https://github.com/hxhlb") {
                     LinkCreditIcon(url: "https://github.com/hxhlb.png")
-                }
-                LinkCreditCell(name: "leminlimez", description: "Various Cowabunga Tweaks", url: "https://github.com/leminlimez") {
-                    LinkCreditIcon(url: "https://github.com/leminlimez.png")
                 }
             }
             .navigationTitle("Credits")

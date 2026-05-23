@@ -53,14 +53,14 @@ struct GestaltView: View {
                     Button {
                         applyGestalt()
                     } label: {
-                        Text("Apply Tweaks")
+                        Text("Apply MobileGestalt")
                     }
                     
                     Button {
                         resetnugget()
                         restoreGestalt()
                     } label: {
-                        Text("Reset Tweaks")
+                        Text("Reset MobileGestalt")
                     }
                 }
                 
@@ -285,7 +285,7 @@ struct GestaltView: View {
                         )
                     )
                 } header: {
-                    HeaderLabel(text: "SpringBoard", icon: "gear")
+                    HeaderLabel(text: "System Tweaks", icon: "gear")
                 }
                 
                 Section {
@@ -334,7 +334,7 @@ struct GestaltView: View {
                         )
                     )
                 } header: {
-                    HeaderLabel(text: "Internal", icon: "ant")
+                    HeaderLabel(text: "System Tweaks", icon: "gear")
                 }
                 
                 Section {
@@ -377,7 +377,7 @@ struct GestaltView: View {
                     HeaderLabel(text: "Debug", icon: "ladybug")
                 }
             }
-            .navigationTitle("MobileGestalt")
+            .navigationTitle("MobileGesalt")
             .toolbar {
                 ToolbarItem(placement: .topBarTrailing) {
                     Button(action: {
