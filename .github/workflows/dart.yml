@@ -30,15 +30,48 @@ jobs:
       - name: install ldid
         run: brew install ldid
 
-      - name: install xcpretty
-        run: gem install xcpretty
-
       - name: build
         run: |
-          chmod +x scripts/build_ipa.sh
-          ./scripts/build_ipa.sh
+          set -euo pipefail
+          rm -rf build/
+          mkdir -p build
+          
+          xcodebuild \
+            -project lara.xcodeproj \
+            -scheme lara \
+            -configuration Debug \
+            -sdk iphoneos \
+            -arch arm64e \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGN_IDENTITY="" \
+            CODE_SIGN_ENTITLEMENTS="Config/lara.entitlements" \
+            archive \
+            -archivePath "$PWD/build/lara.xcarchive" 2>&1 | tee build/xcodebuild.log
+          
+          APP_PATH="$PWD/build/lara.xcarchive/Products/Applications/lara.app"
+          if [ ! -d "$APP_PATH" ]; then
+            echo "Missing app at $APP_PATH"
+            exit 1
+          fi
+          
+          mkdir -p "$PWD/build/Payload"
+          cp -R "$APP_PATH" "$PWD/build/Payload/"
+          plutil -replace UIFileSharingEnabled -bool YES "$PWD/build/Payload/lara.app/Info.plist"
+          ldid -SConfig/lara.entitlements "$PWD/build/Payload/lara.app/lara"
+          (cd "$PWD/build" && /usr/bin/zip -qry lara.ipa Payload)
+          
+          echo "build successful! ipa at: build/lara.ipa"
+
+      - name: upload build log on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-log
+          path: build/xcodebuild.log
 
       - name: upload ipa
+        if: success()
         uses: actions/upload-artifact@v4
         with:
           name: lara.ipa
