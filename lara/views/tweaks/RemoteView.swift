@@ -25,10 +25,6 @@ struct RemoteView: View {
     @State private var hsColumns: Int = 4
     @State private var freakyrunning: Bool = false
     @State private var freakyseq: Int = 0
-    @State private var sideStoreRefreshing: Bool = false
-    @State private var sideStoreProgress: Double = 0.0
-    @State private var sideStoreStatus: String = ""
-    @State private var sideStoreResult: Bool? = nil
 
     private var dockMaxColumns: Int { rcdockunlimited ? 50 : 10 }
 
@@ -310,73 +306,6 @@ struct RemoteView: View {
                     Text("Generic Youtube Tweaks")
                 }
             }
-            
-            Section {
-                Button {
-                    guard mgr.rcready, !sideStoreRefreshing else { return }
-                    sideStoreRefreshing = true
-                    sideStoreProgress = 0.0
-                    sideStoreStatus = "Starting..."
-                    
-                    DispatchQueue.global(qos: .userInitiated).async {
-                        let result = rc_sidestore_refresh(mgr.sbProc) { progress, status in
-                            DispatchQueue.main.async {
-                                self.sideStoreProgress = progress
-                                self.sideStoreStatus = status as String
-                            }
-                        }
-                        
-                        DispatchQueue.main.async {
-                            if result > 0 {
-                                self.sideStoreStatus = "✓ Refreshed \(result) app profiles!"
-                                self.sideStoreResult = true
-                            } else if result == 0 {
-                                self.sideStoreStatus = "No pending profiles found"
-                                self.sideStoreResult = nil
-                            } else {
-                                self.sideStoreStatus = "✗ Failed (error: \(result))"
-                                self.sideStoreResult = false
-                            }
-                            self.sideStoreProgress = 1.0
-                            self.sideStoreRefreshing = false
-                        }
-                    }
-                } label: {
-                    HStack {
-                        if sideStoreRefreshing {
-                            ProgressView(value: sideStoreProgress)
-                                .progressViewStyle(.circular)
-                                .frame(width: 18, height: 18)
-                            Text(sideStoreStatus)
-                            Spacer()
-                            Text("\(Int(sideStoreProgress * 100))%")
-                                .foregroundColor(.secondary)
-                                .monospacedDigit()
-                        } else {
-                            Image(systemName: "arrow.triangle.2.circlepath")
-                            Text("Refresh SideStore Apps")
-                            Spacer()
-                            if let result = sideStoreResult {
-                                Image(systemName: result ? "checkmark.circle.fill" : "xmark.circle.fill")
-                                    .foregroundColor(result ? .green : .red)
-                            }
-                        }
-                    }
-                }
-                .disabled(sideStoreRefreshing)
-                
-                if !sideStoreStatus.isEmpty && !sideStoreRefreshing {
-                    Text(sideStoreStatus)
-                        .font(.system(.footnote, design: .monospaced))
-                        .foregroundColor(.secondary)
-                        .textSelection(.enabled)
-                }
-            } header: {
-                Text("SideStore Refresh")
-            } footer: {
-                Text("Install provisioning profiles without needing the local VPN tunnel. Works with both LiveContainer+SideStore and standalone SideStore. Run SideStore's refresh first (it will save profiles to disk), then use this to install them via misagent.")
-            }
-            .disabled(!mgr.rcready || running)
             
             Section {
                 Button {

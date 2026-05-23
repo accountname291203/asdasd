@@ -17,9 +17,9 @@ struct TweaksView: View {
                 Section(header: HeaderLabel(text: "SpringBoard", icon: "house")) {
                     NavigationLink("RemoteCall Customizer", destination: RemoteView(mgr: mgr))
                         .disabled(!mgr.rcready)
-                    NavigationLink("DarkBoard", destination: DarkBoardView())
-                        .disabled(true)
                     NavigationLink("Liquid Glass", destination: LiquidGlassView())
+                        .disabled(!mgr.vfsready)
+                    NavigationLink("SpringBoard Customizer", destination: SpringBoardView(mgr: mgr))
                         .disabled(!mgr.vfsready)
                 }
                 
@@ -42,7 +42,7 @@ struct TweaksView: View {
                 Section(header: HeaderLabel(text: "User Interface", icon: "eye")) {
                     NavigationLink("dirtyZero", destination: dirtyZeroView())
                         .disabled(!mgr.vfsready)
-                    NavigationLink("MobileGestalt", destination: GestaltView(mgr: laramgr()))
+                    NavigationLink("MobileGestalt", destination: GestaltView(mgr: mgr))
                         .disabled(!mgr.sbxready)
                     NavigationLink("Font Overwrite", destination: FontPicker(mgr: mgr))
                         .disabled(!mgr.vfsready)
@@ -55,6 +55,11 @@ struct TweaksView: View {
                         .disabled(!mgr.sbxready)
                     NavigationLink("Custom Overwrite", destination: CustomView(mgr: mgr))
                         .disabled(!mgr.vfsready)
+                }
+                
+                Section(header: HeaderLabel(text: "Broken", icon: "exclamationmark.triangle.fill")) {
+                    NavigationLink("DarkBoard", destination: DarkBoardView())
+                        .disabled(true)
                 }
                 
                 NavigationLink("Extra Tools", destination: ToolsView())
