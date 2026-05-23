@@ -1,0 +1,48 @@
+{
+  "source": "/Users/system/Documents/test/lara-main/lara/classes/IconThemeManager.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Icon Fixup",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 723
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fixing apps...",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 703
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fixup complete",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 703
+        }
+      },
+      {
+        "comment": "",
+        "key": "Please wait",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 716
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 716
+        }
+      }
+    ]
+  },
+  "version": 1
+}

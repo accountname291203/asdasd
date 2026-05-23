@@ -1,0 +1,798 @@
+{
+  "" : {
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara-master.dia",
+    "emit-module-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara-master-emit-module.dia",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara-master.swiftdeps"
+  },
+  "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/classes/IconThemeGalleryManager.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeGalleryManager.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeGalleryManager.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeGalleryManager.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeGalleryManager.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeGalleryManager.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeGalleryManager.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeGalleryManager.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeGalleryManager~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/classes/IconThemeManager.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeManager.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeManager.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeManager.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeManager.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeManager.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeManager.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeManager.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/IconThemeManager~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/classes/laramgr.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/laramgr.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/laramgr.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/laramgr.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/laramgr.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/laramgr.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/laramgr.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/laramgr.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/laramgr~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/classes/Logger.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Logger.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Logger.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Logger.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Logger.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Logger.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Logger.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Logger.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Logger~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/classes/RefreshAllAppsIntent.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RefreshAllAppsIntent.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RefreshAllAppsIntent.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RefreshAllAppsIntent.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RefreshAllAppsIntent.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RefreshAllAppsIntent.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RefreshAllAppsIntent.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RefreshAllAppsIntent.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RefreshAllAppsIntent~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/funcs/fetchkcache.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/fetchkcache.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/fetchkcache.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/fetchkcache.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/fetchkcache.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/fetchkcache.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/fetchkcache.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/fetchkcache.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/fetchkcache~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/funcs/getbmhash.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/getbmhash.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/getbmhash.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/getbmhash.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/getbmhash.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/getbmhash.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/getbmhash.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/getbmhash.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/getbmhash~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/funcs/helpers.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/helpers.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/helpers.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/helpers.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/helpers.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/helpers.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/helpers.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/helpers.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/helpers~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/funcs/isdebugged.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isdebugged.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isdebugged.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isdebugged.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isdebugged.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isdebugged.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isdebugged.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isdebugged.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isdebugged~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/funcs/islcinstalled.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/islcinstalled.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/islcinstalled.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/islcinstalled.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/islcinstalled.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/islcinstalled.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/islcinstalled.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/islcinstalled.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/islcinstalled~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/funcs/isunsupported.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isunsupported.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isunsupported.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isunsupported.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isunsupported.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isunsupported.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isunsupported.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isunsupported.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/isunsupported~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/funcs/keepalive.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/keepalive.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/keepalive.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/keepalive.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/keepalive.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/keepalive.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/keepalive.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/keepalive.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/keepalive~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/funcs/resizetoapprox.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/resizetoapprox.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/resizetoapprox.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/resizetoapprox.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/resizetoapprox.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/resizetoapprox.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/resizetoapprox.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/resizetoapprox.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/resizetoapprox~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/lara.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/lara~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/AppInfo.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfo.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfo.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfo.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfo.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfo.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfo.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfo.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfo~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/Extensions/VariableBlur.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VariableBlur.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VariableBlur.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VariableBlur.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VariableBlur.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VariableBlur.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VariableBlur.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VariableBlur.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VariableBlur~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/Functions/Alertinator.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Alertinator.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Alertinator.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Alertinator.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Alertinator.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Alertinator.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Alertinator.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Alertinator.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Alertinator~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/Functions/Exitinator.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Exitinator.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Exitinator.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Exitinator.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Exitinator.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Exitinator.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Exitinator.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Exitinator.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Exitinator~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/Functions/Hapticinator.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Hapticinator.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Hapticinator.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Hapticinator.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Hapticinator.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Hapticinator.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Hapticinator.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Hapticinator.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Hapticinator~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/Functions/Shareinator.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Shareinator.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Shareinator.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Shareinator.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Shareinator.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Shareinator.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Shareinator.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Shareinator.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/Shareinator~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/Settings/AppInfoCell.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfoCell.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfoCell.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfoCell.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfoCell.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfoCell.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfoCell.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfoCell.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppInfoCell~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/Settings/GetLicenseDict.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GetLicenseDict.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GetLicenseDict.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GetLicenseDict.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GetLicenseDict.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GetLicenseDict.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GetLicenseDict.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GetLicenseDict.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GetLicenseDict~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/Settings/LicenseView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LicenseView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LicenseView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LicenseView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LicenseView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LicenseView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LicenseView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LicenseView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LicenseView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/Settings/LinkCreditCell.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LinkCreditCell.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LinkCreditCell.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LinkCreditCell.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LinkCreditCell.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LinkCreditCell.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LinkCreditCell.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LinkCreditCell.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LinkCreditCell~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/WelcomeSheet/WelcomeSheetRow.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetRow.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetRow.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetRow.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetRow.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetRow.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetRow.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetRow.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetRow~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/App/WelcomeSheet/WelcomeSheetView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WelcomeSheetView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/PartyUI.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PartyUI.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PartyUI.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PartyUI.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PartyUI.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PartyUI.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PartyUI.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PartyUI.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PartyUI~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Buttons/ButtonLabel.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ButtonLabel.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ButtonLabel.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ButtonLabel.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ButtonLabel.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ButtonLabel.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ButtonLabel.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ButtonLabel.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ButtonLabel~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Buttons/FancyButtonStyle.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FancyButtonStyle.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FancyButtonStyle.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FancyButtonStyle.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FancyButtonStyle.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FancyButtonStyle.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FancyButtonStyle.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FancyButtonStyle.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FancyButtonStyle~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Buttons/NavigationLabel.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/NavigationLabel.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/NavigationLabel.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/NavigationLabel.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/NavigationLabel.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/NavigationLabel.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/NavigationLabel.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/NavigationLabel.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/NavigationLabel~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Buttons/PrimaryButtonStyle.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PrimaryButtonStyle.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PrimaryButtonStyle.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PrimaryButtonStyle.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PrimaryButtonStyle.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PrimaryButtonStyle.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PrimaryButtonStyle.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PrimaryButtonStyle.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PrimaryButtonStyle~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Buttons/TinyButtonStyle.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyButtonStyle.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyButtonStyle.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyButtonStyle.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyButtonStyle.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyButtonStyle.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyButtonStyle.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyButtonStyle.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyButtonStyle~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Buttons/TranslucentButtonStyle.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TranslucentButtonStyle.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TranslucentButtonStyle.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TranslucentButtonStyle.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TranslucentButtonStyle.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TranslucentButtonStyle.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TranslucentButtonStyle.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TranslucentButtonStyle.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TranslucentButtonStyle~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/DesignStyle.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DesignStyle.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DesignStyle.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DesignStyle.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DesignStyle.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DesignStyle.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DesignStyle.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DesignStyle.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DesignStyle~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Effects/FadeAnimation.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FadeAnimation.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FadeAnimation.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FadeAnimation.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FadeAnimation.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FadeAnimation.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FadeAnimation.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FadeAnimation.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FadeAnimation~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Effects/OverlayBackground.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OverlayBackground.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OverlayBackground.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OverlayBackground.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OverlayBackground.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OverlayBackground.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OverlayBackground.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OverlayBackground.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OverlayBackground~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Indicators/CompactAlert.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CompactAlert.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CompactAlert.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CompactAlert.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CompactAlert.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CompactAlert.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CompactAlert.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CompactAlert.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CompactAlert~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Indicators/InfoBadge.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/InfoBadge.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/InfoBadge.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/InfoBadge.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/InfoBadge.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/InfoBadge.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/InfoBadge.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/InfoBadge.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/InfoBadge~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Indicators/PlainAlert.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainAlert.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainAlert.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainAlert.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainAlert.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainAlert.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainAlert.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainAlert.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainAlert~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Indicators/TinyInfoPlatter.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyInfoPlatter.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyInfoPlatter.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyInfoPlatter.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyInfoPlatter.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyInfoPlatter.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyInfoPlatter.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyInfoPlatter.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TinyInfoPlatter~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Inputs/PlainToggle.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainToggle.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainToggle.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainToggle.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainToggle.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainToggle.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainToggle.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainToggle.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlainToggle~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Inputs/PlatterToggle.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlatterToggle.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlatterToggle.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlatterToggle.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlatterToggle.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlatterToggle.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlatterToggle.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlatterToggle.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PlatterToggle~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Inputs/TextFieldBackground.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldBackground.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldBackground.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldBackground.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldBackground.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldBackground.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldBackground.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldBackground.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldBackground~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Inputs/TextFieldButton.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldButton.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldButton.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldButton.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldButton.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldButton.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldButton.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldButton.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TextFieldButton~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Lists/HeaderDropdown.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderDropdown.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderDropdown.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderDropdown.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderDropdown.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderDropdown.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderDropdown.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderDropdown.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderDropdown~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Lists/HeaderLabel.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderLabel.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderLabel.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderLabel.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderLabel.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderLabel.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderLabel.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderLabel.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/HeaderLabel~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Lists/SectionPlatter.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SectionPlatter.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SectionPlatter.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SectionPlatter.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SectionPlatter.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SectionPlatter.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SectionPlatter.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SectionPlatter.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SectionPlatter~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Lists/ThemedHeaderLabel.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ThemedHeaderLabel.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ThemedHeaderLabel.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ThemedHeaderLabel.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ThemedHeaderLabel.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ThemedHeaderLabel.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ThemedHeaderLabel.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ThemedHeaderLabel.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ThemedHeaderLabel~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Terminal/TerminalHeader.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalHeader.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalHeader.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalHeader.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalHeader.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalHeader.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalHeader.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalHeader.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalHeader~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/PartyUI/UI/Terminal/TerminalPlatter.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalPlatter.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalPlatter.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalPlatter.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalPlatter.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalPlatter.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalPlatter.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalPlatter.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TerminalPlatter~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/app/ContentView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/app/LogsView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LogsView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LogsView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LogsView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LogsView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LogsView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LogsView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LogsView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LogsView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/app/settings/CreditsView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CreditsView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CreditsView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CreditsView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CreditsView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CreditsView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CreditsView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CreditsView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CreditsView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/app/settings/OffsetManagementView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OffsetManagementView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OffsetManagementView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OffsetManagementView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OffsetManagementView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OffsetManagementView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OffsetManagementView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OffsetManagementView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/OffsetManagementView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/app/settings/SettingsView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/fm/SantanderView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SantanderView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SantanderView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SantanderView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SantanderView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SantanderView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SantanderView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SantanderView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SantanderView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/other/respring.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/AppsView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/broken/CCView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/broken/darkboard/DarkBoardExploreView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/broken/darkboard/DarkBoardView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/broken/PasscodeView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/CardView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/CustomView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/dirtyZero/dirtyZeroTweakArray.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/dirtyZero/dirtyZeroView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/FontPicker.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/JitView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/liquidglass/LiquidGlassPreview.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/liquidglass/LiquidGlassView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/mobilegestalt/GestaltFileView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/mobilegestalt/GestaltView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/RemoteView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RemoteView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RemoteView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RemoteView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RemoteView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RemoteView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RemoteView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RemoteView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/RemoteView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/SystemColor.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SystemColor.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SystemColor.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SystemColor.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SystemColor.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SystemColor.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SystemColor.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SystemColor.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/SystemColor~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/ToolsView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ToolsView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ToolsView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ToolsView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ToolsView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ToolsView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ToolsView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ToolsView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/ToolsView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/TweaksView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TweaksView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TweaksView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TweaksView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TweaksView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TweaksView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TweaksView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TweaksView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/TweaksView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/VarCleanView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VarCleanView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VarCleanView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VarCleanView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VarCleanView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VarCleanView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VarCleanView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VarCleanView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/VarCleanView~partial.swiftmodule"
+  },
+  "/Users/system/Documents/test/lara-main/lara/views/tweaks/WhitelistView.swift" : {
+    "const-values" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WhitelistView.swiftconstvalues",
+    "dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WhitelistView.d",
+    "diagnostics" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WhitelistView.dia",
+    "index-unit-output-path" : "/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WhitelistView.o",
+    "llvm-bc" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WhitelistView.bc",
+    "object" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WhitelistView.o",
+    "swift-dependencies" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WhitelistView.swiftdeps",
+    "swiftmodule" : "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/WhitelistView~partial.swiftmodule"
+  }
+}

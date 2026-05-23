@@ -1,0 +1,48 @@
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/mobilegestalt/GestaltFileView.swift":
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.d"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.swiftconstvalues"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.swiftdeps"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.o"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltFileView.dia"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/liquidglass/LiquidGlassView.swift":
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.o"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.swiftdeps"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.dia"
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.d"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassView.swiftconstvalues"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/CustomView.swift":
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.d"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.swiftdeps"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.swiftconstvalues"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.dia"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CustomView.o"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/CardView.swift":
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.swiftconstvalues"
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.d"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.swiftdeps"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.dia"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CardView.o"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/JitView.swift":
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.swiftconstvalues"
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.d"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.swiftdeps"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.dia"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/JitView.o"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/AppsView.swift":
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.dia"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.swiftdeps"
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.d"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.swiftconstvalues"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/AppsView.o"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/FontPicker.swift":
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.dia"
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.d"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.o"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.swiftdeps"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/FontPicker.swiftconstvalues"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/mobilegestalt/GestaltView.swift":
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.o"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.dia"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.swiftconstvalues"
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.d"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/GestaltView.swiftdeps"

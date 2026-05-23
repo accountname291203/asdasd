@@ -1,0 +1,48 @@
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/liquidglass/LiquidGlassPreview.swift":
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.swiftconstvalues"
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.d"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.o"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.swiftdeps"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/LiquidGlassPreview.dia"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/broken/CCView.swift":
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.d"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.swiftdeps"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.dia"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.o"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/CCView.swiftconstvalues"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/broken/PasscodeView.swift":
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.d"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.swiftconstvalues"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.o"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.swiftdeps"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/PasscodeView.dia"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/dirtyZero/dirtyZeroView.swift":
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.d"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.dia"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.o"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.swiftdeps"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroView.swiftconstvalues"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/broken/darkboard/DarkBoardExploreView.swift":
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.swiftconstvalues"
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.d"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.o"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.dia"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardExploreView.swiftdeps"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/broken/darkboard/DarkBoardView.swift":
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.swiftdeps"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.swiftconstvalues"
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.d"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.dia"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/DarkBoardView.o"
+"/Users/system/Documents/test/lara-main/lara/views/tweaks/dirtyZero/dirtyZeroTweakArray.swift":
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.swiftdeps"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.o"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.swiftconstvalues"
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.d"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/dirtyZeroTweakArray.dia"
+"/Users/system/Documents/test/lara-main/lara/views/other/respring.swift":
+  dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.d"
+  diagnostics: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.dia"
+  const-values: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.swiftconstvalues"
+  swift-dependencies: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.swiftdeps"
+  object: "/Users/system/Documents/test/lara-main/build/DD/Build/Intermediates.noindex/lara.build/Debug-iphoneos/lara.build/Objects-normal/arm64/respring.o"

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>3FA806D7-598E-4CF7-B8CB-46BC6CEBD0DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3FA806D7-598E-4CF7-B8CB-46BC6CEBD0DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>5</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lara project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lara</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project lara with scheme lara and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>801199732.66150606</real>
+			<key>timeStoppedRecording</key>
+			<real>801199735.71203101</real>
+			<key>title</key>
+			<string>Building project lara with scheme lara and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3FA806D7-598E-4CF7-B8CB-46BC6CEBD0DB</string>
+		</dict>
+		<key>525C088F-6563-4173-838A-505EE771323F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>525C088F-6563-4173-838A-505EE771323F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>5</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>3</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>lara project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>lara</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project lara with scheme lara and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>801199729.33202505</real>
+			<key>timeStoppedRecording</key>
+			<real>801199731.94919503</real>
+			<key>title</key>
+			<string>Building project lara with scheme lara and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>525C088F-6563-4173-838A-505EE771323F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/system/Documents/test/lara-main/lara/views/app/settings/CreditsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Credits",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 45
+        }
+      }
+    ]
+  },
+  "version": 1
+}
