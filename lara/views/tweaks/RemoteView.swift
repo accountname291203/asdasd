@@ -322,7 +322,7 @@ struct RemoteView: View {
                         let result = rc_sidestore_refresh(mgr.sbProc) { progress, status in
                             DispatchQueue.main.async {
                                 self.sideStoreProgress = progress
-                                self.sideStoreStatus = status as String
+                                self.sideStoreStatus = (status as String?) ?? ""
                             }
                         }
                         
