@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="rootSvg" width="100%" height="100%" viewBox="0 0 1200 800">
+  <foreignObject id="fo" x="0" y="0" width="1200" height="800">
+    <iframe xmlns="http://www.w3.org/1999/xhtml"
+      src="https://AntiDeodorant.github.io/Peak/?cdn=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwasmdotrip%2FPeak-Port%40main"
+      style="width:100%; height:100%; border:none; margin:0; padding:0; display:block;"
+      sandbox="allow-scripts allow-same-origin">
+    </iframe>
+  </foreignObject>
+  <script><![CDATA[
+    (function () {
+      function resize() {
+        var svgEl = document.getElementById('rootSvg');
+        var fo = document.getElementById('fo');
+        var w = window.innerWidth || 1200;
+        var h = window.innerHeight || 800;
+        svgEl.setAttribute('viewBox', '0 0 ' + w + ' ' + h);
+        fo.setAttribute('width', w);
+        fo.setAttribute('height', h);
+      }
+      window.addEventListener('resize', resize);
+      if (document.readyState === 'complete') {
+        resize();
+      } else {
+        window.addEventListener('load', resize);
+      }
+    })();
+  ]]></script>
+</svg>
